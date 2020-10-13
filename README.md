@@ -6,7 +6,6 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![Hits][ico-hits]][link-hits]
 
-
 ## Description
 Access the current details of your composer.lock file.
 
